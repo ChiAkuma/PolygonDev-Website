@@ -1,4 +1,7 @@
 $.loadPage = function(where, pageurl, title) {
-	$(where).load(pageurl);
-	$("title").html(title);
+    $(where).load(pageurl);
+    
+    if (!title == "-1") {
+        $("title").html(title);
+	}
 }

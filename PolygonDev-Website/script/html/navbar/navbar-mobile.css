@@ -1,0 +1,127 @@
+/*Navbar default+- ---------------------------------------------------------------------------------------------------*/
+#navbar {
+    background-color: #343A40;
+    width: 100%;
+    height: 120pt;
+    
+    min-width: 400pt;
+    
+    cursor: default;
+}
+
+#content {
+    height: auto;
+}
+
+body {
+    margin: 0;
+}
+
+#navbar > #logo {
+     width: 120pt;
+     height: 120pt;
+     
+     background-image: url("https://media.discordapp.net/attachments/449585340152414218/449585469647486986/59h8z953.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: 100pt;
+     
+     float: left; 
+}
+
+#navbar > #name {
+    transition: color 2s;
+    
+    width: auto;
+    height: 100pt;
+    
+    display: table;
+    
+    font-size: 75pt;    
+    color: white;
+    
+    float: left;
+}
+
+/*Advanced settings---------------------------------------------------------------------------------------------------*/
+#navbar > #buttons > div > span:hover {
+    transition: color 0.5s ease;
+    color: red;
+}
+
+#buttons {
+    position: relative;
+    display: inline-block;
+    
+    width: 85pt;
+    height: 100pt;
+    
+    margin-right: 10pt;
+    margin-top: 15pt;
+    
+    float: right;
+}
+
+#dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 235pt;
+    box-shadow: 0pt 8pt 16pt 0pt rgba(0,0,0,0.2);
+    margin-top: 30pt;
+    
+    margin-left: -310pt;
+    
+    z-index: 1;
+}
+
+#navbar > #buttons > div > span {
+    transition: color 0.5s ease;
+    font-size: 65pt;
+    vertical-align: middle;
+    
+    margin-left: 50pt;
+    padding-right: 40pt;
+    
+    text-transform: uppercase;
+    
+    display: table; 
+    vertical-align: middle;
+    
+    width: auto;
+    height: 100pt;
+}
+
+.change #dropdown {
+    display: block;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 75pt;
+    height: 10pt;
+    background-color: white;
+    
+    margin-top: 15pt;
+    margin-left: 0pt;
+    
+    transition: 0.4s;
+    
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9pt, 6pt);
+    transform: rotate(-45deg) translate(-9pt, 26pt);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8pt, -8pt);
+    transform: rotate(45deg) translate(-8pt, -26pt);
+}
+
+#navbar > #buttons > div > hr{
+    margin-top: -2pt;
+    height: 5pt;
+    background-color: black;
+}
