@@ -62,6 +62,8 @@ body {
     width: auto;
     height: 65px;
     
+    margin-top: -2px;
+    
     color: white;
     
     float: right;

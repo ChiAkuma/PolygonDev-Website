@@ -1,22 +1,18 @@
 
 @media (min-width: 1040px) {
     #content {
-        position: absolute;
         
         width: 100%;
         
         top: 65px;
-        bottom: 0px;
     }
 }
 @media (max-width: 1039px) {
     #content {
-        position: absolute;
         
         width: 100%;
          
         top: 120pt;
-        bottom: 0px;
     }
 }
 
