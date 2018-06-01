@@ -2,3 +2,8 @@
     height: auto;
     background-color:green;
 }
+
+#carouselExampleIndicators{
+	height: 600px;
+	width: 100%;
+}
