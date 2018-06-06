@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="99f05fca-c0f0-4010-af73-c567d020aa5f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolygonDev-Website/site/home/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/PolygonDev-Website/site/home/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -376,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528296235674</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update V0.3.2 Patch 0.7 Changed Font in Home to Calibri">
+      <created>1528302870345</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528302870345</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -390,7 +396,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
@@ -489,7 +494,8 @@
     <MESSAGE value="Update V0.3.1 Patch 0.4 Login Area: Created" />
     <MESSAGE value="Update V0.3.1 Patch 0.5 Login Area: Deleted" />
     <MESSAGE value="Update V0.3.2 Home Design started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update V0.3.2 Home Design started" />
+    <MESSAGE value="Update V0.3.2 Patch 0.7 Changed Font in Home to Calibri" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update V0.3.2 Patch 0.7 Changed Font in Home to Calibri" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.css">
@@ -790,8 +796,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
