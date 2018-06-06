@@ -1,8 +1,12 @@
 #home {
     height: auto;
+    width: 100%;
+    
+    text-align: center;
+    
 }
 
-#carouselExampleIndicators{
-	height: 600px;
-	width: 100%;
+#home > h1 {
+    font-family:  times;
+    font-size: 50pt;
 }
