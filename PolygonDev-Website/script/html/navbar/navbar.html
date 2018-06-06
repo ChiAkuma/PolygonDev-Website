@@ -2,6 +2,11 @@
 <link media="(max-width: 1039px)" rel="stylesheet" href="script/html/navbar/navbar-mobile.css" />
 
 <script type="text/javascript">
+
+    function myFunction(x) {
+        x.classList.toggle("change");
+    }
+
     $.func1122 = function() {
         alert("hi");
         $.loadPage("#login_profile_area", "script/html/loginprofilearea/loginprofilearea.html", "-1");
@@ -25,7 +30,7 @@
         <span>Kontakt</span>
         <hr>
         <span id="login_profile_area"><a onclick="$.func1122();">Hallo</a></span>
-        
+
     </div>
 </div>
 <div id="search"></div>
