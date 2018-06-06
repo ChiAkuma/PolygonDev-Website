@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="99f05fca-c0f0-4010-af73-c567d020aa5f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolygonDev-Website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PolygonDev-Website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-desktop.css" beforeDir="false" afterPath="$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-desktop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PolygonDev-Website/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="30">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -29,19 +30,42 @@
       <file leaf-file-name="navbar-mobile.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-974">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navbar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+            <state relative-caret-position="180">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lpa.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lpa-desktop.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-desktop.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lpa-mobile.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-mobile.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
@@ -56,8 +80,26 @@
       <file leaf-file-name="navbar-desktop.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-desktop.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="29" />
+            <state relative-caret-position="417">
+              <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -72,7 +114,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -92,9 +134,7 @@
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar.html" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar-desktop.css" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar-mobile.css" />
-        <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-desktop.css" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/index.css" />
-        <option value="$PROJECT_DIR$/PolygonDev-Website/site/home/index.html" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/foobar/foobar.html" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/site/home/index.css" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/foobar/foobar-desktop.css" />
@@ -103,8 +143,12 @@
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/loginprofilearea/loginprofilarea.html" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/js/Site.js" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa.html" />
-        <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar.html" />
         <option value="$PROJECT_DIR$/PolygonDev-Website/index.html" />
+        <option value="$PROJECT_DIR$/PolygonDev-Website/site/home/index.html" />
+        <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-desktop.css" />
+        <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-mobile.css" />
+        <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-desktop.css" />
+        <option value="$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar.html" />
       </list>
     </option>
   </component>
@@ -355,7 +399,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528293329785</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update V0.3.1 Patch 0.1">
+      <created>1528293369306</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1528293369306</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update V0.3.1 Patch 0.4 Bootstrap deleted">
+      <created>1528293762514</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528293762514</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -413,7 +471,8 @@
     <MESSAGE value="Update V0.3 Test loginarea Fehlschlag ... neu testem ..." />
     <MESSAGE value="Update V0.3.1" />
     <MESSAGE value="Update V0.3.1 Patch 0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update V0.3.1 Patch 0.1" />
+    <MESSAGE value="Update V0.3.1 Patch 0.4 Bootstrap deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update V0.3.1 Patch 0.4 Bootstrap deleted" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.css">
@@ -659,63 +718,11 @@
     <entry file="file://$PROJECT_DIR$/PolygonDev-Website/PolygonDev-Website.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/loginprofilearea/index.html" />
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-mobile.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-desktop.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/js/Site.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-desktop.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-mobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-974">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -726,10 +733,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/site/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-desktop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-mobile.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/PolygonDev-Website/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/lpa/lpa-desktop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar-mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolygonDev-Website/script/html/navbar/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
