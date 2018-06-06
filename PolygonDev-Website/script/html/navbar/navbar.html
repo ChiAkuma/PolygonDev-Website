@@ -1,12 +1,13 @@
 <link media="(min-width: 1040px)" rel="stylesheet" href="script/html/navbar/navbar-desktop.css" />
 <link media="(max-width: 1039px)" rel="stylesheet" href="script/html/navbar/navbar-mobile.css" />
 
-<script>
-function myFunction(x) {
-    x.classList.toggle("change");
-}
+<script type="text/javascript">
+    $.func1122 = function() {
+        alert("hi");
+        $.loadPage("#login_profile_area", "script/html/loginprofilearea/loginprofilearea.html", "-1");
+        alert("loaded");
+    };
 </script>
-
 
 <div id="logo"></div>
 <div id="name">PolygonDev</div>
@@ -22,6 +23,9 @@ function myFunction(x) {
         <span>Projekte</span>
         <hr>
         <span>Kontakt</span>
+        <hr>
+        <span id="login_profile_area"><a onclick="$.func1122();">Hallo</a></span>
+        
     </div>
 </div>
 <div id="search"></div>
