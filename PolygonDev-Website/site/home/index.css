@@ -1,4 +1,6 @@
 #home {
+    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    
     height: auto;
     width: 100%;
     
@@ -6,7 +8,49 @@
     
 }
 
-#home > h1 {
-    font-family: Calibri;
+.home > h1 {
     font-size: 50pt;
+}
+
+.refpics {
+    display: inline-block;
+    
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.refpics > .image {
+    margin-top: -128px;
+
+    width: 128px;
+    height: 128px;
+    
+    object-fit: scale-down;
+}
+
+.refpics:hover .text {
+    opacity: 1;
+}
+
+.refpics:hover .image {
+    opacity: 0.15;
+}
+
+.refpics > div {
+    border-radius: 100px;
+    border-color: black;
+    border-style: solid;
+    
+    margin-top: -17px;
+    
+    width: 128px;
+    height: 128px;
+    
+    background-color: white;
+    
+    opacity: 0;
+}
+
+.refpics > div > p {
+    font-size: 30px;
 }
